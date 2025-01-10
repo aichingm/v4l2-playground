@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/mario/programming/v4l2loopback-playground",
+    "command": "gcc -std=gnu23 -pedantic -g -Wall -Wextra -I. -lm -lexplain -L/usr/local/lib main.c",
+    "file": "main.c"
+  }
+]

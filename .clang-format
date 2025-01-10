@@ -1,0 +1,9 @@
+BasedOnStyle: Google
+UseTab: Never
+TabWidth: 4
+IndentWidth: 4
+InsertNewlineAtEOF: true
+KeepEmptyLinesAtEOF: true
+LineEnding: LF
+ColumnLimit: 120
+
