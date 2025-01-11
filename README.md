@@ -8,7 +8,7 @@ This repository contains code to read frames from a webcam (v4l2 device) upload 
 * **This README packed with all the things I learnd while working on this.**
    * [Video Devices](#about-video-devices)
    * [MMAP](#about-mmap)
-   * [stb_image](#about-stbimage)
+   * [stb_image](#about-stb_image)
    * [YUV Formats](#about-yuv-formats)
 * [Links](#things-to-read) to more resources
 * [Build instructions](#playground)
